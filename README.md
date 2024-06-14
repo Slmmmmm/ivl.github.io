@@ -26,10 +26,6 @@ Our main research directions are reinforcement learning, energy management for h
 
 ***  
 ## Master Students:
-&emsp;<img src="assets/Xiao Liu.jpg" width="150" height=""/> 
-* Xiao Liu（刘啸）：<br/>
-Research Direction  :
-
 &emsp;<img src="assets/Qitao Li.jpg" width="150" height=""/> 
 * Qitao Li（黎启涛）：<br/>
 Research Direction  :
