@@ -1,5 +1,5 @@
 # Intelligent Vehicles Lab
-Our main research focuses are reinforcement learning, energy management for hybrid vehicles, and behavioral decision-making for automated vehicles. At present, we have one PI, two PhDs and eight masters in our laboratory.  
+Our main research focuses are energy management, autonomous driving and reinforcement learning. At present, we have one PI, two PhDs and eight masters in our laboratory.  
 
 ***
 
