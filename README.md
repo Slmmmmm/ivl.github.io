@@ -129,17 +129,7 @@ Our main research focuses are energy management, autonomous driving and reinforc
 <br/>
 <br/>
 
-## Undergraduate Students:
-<img align="left" src="assets/Yihan Wang.jpg" width="150" height=""/> 
-<br/>
-<br/>
-**Yihan Wang(王艺涵)**: September 2024 - Present<br/>
-**Research Interests**: Construction of Autonomous Driving Platform.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 ***
