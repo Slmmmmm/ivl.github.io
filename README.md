@@ -153,12 +153,6 @@ Yuan Lin received the B.E. degree in civil engineering from Nanchang University,
 * Vehicle in the loop.
 
 
-
-
-## Autonomous Robot
-&emsp;<img src="assets/autonomous robot.jpg" width="250" height=""/>
-* ROS Robot.
-
 ***
 
 
